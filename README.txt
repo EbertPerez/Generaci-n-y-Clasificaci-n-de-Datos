@@ -1,5 +1,6 @@
 PRIMERA ENTREGA - GENERACION Y CLASIFICACION DE DATOS
 Estudiante: EBERT LARRY PEREZ ARDILA
+            JOHN ALDEMAR MORERA BARRERA
 
 Esta entrega corresponde a la primera fase del proyecto. Se implementa la clase
 GenerateInfoFiles para generar archivos planos pseudoaleatorios que sirven como
