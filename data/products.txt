@@ -1,10 +1,10 @@
-1;Teclado_1;96917.0
-2;Mouse_2;79401.0
-3;Monitor_3;101440.0
-4;Impresora_4;30701.0
-5;Portatil_5;179504.0
-6;Memoria USB_6;36063.0
-7;Disco SSD_7;186968.0
-8;Audifonos_8;179406.0
-9;Camara Web_9;137977.0
-10;Parlantes_10;181739.0
+1;Teclado_1;128208.0
+2;Mouse_2;186028.0
+3;Monitor_3;20283.0
+4;Impresora_4;31053.0
+5;Portatil_5;115359.0
+6;Memoria USB_6;140000.0
+7;Disco SSD_7;169142.0
+8;Audifonos_8;113304.0
+9;Camara Web_9;58034.0
+10;Parlantes_10;149141.0
