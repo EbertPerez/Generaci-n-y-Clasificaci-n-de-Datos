@@ -1,0 +1,10 @@
+1;Teclado_1;144735.0
+2;Mouse_2;13513.0
+3;Monitor_3;160077.0
+4;Impresora_4;135177.0
+5;Portatil_5;68998.0
+6;Memoria USB_6;179979.0
+7;Disco SSD_7;127524.0
+8;Audifonos_8;37081.0
+9;Camara Web_9;50426.0
+10;Parlantes_10;199139.0
