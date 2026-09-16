@@ -8,7 +8,7 @@ import java.util.Random;
  * Genera archivos de prueba pseudoaleatorios para el proyecto
  * "Generación y clasificación de datos".
  *
- * @author EBERT LARRY PEREZ ARDILA
+ * @author EBERT LARRY PEREZ ARDILA / JOHN ALDEMAR MORERA BARRERA
  * @version 1.0
  */
 public class GenerateInfoFiles {
